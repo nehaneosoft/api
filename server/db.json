@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Neh Kumari",
+      "username": "nehkumari",
+      "email": "neh@gmail.com",
+      "phone": "6204819654",
+      "id": 1
+    },
+    {
+      "name": "Priya Bharti",
+      "username": "Priyabharti",
+      "email": "p@gmail.com",
+      "phone": "8103206524",
+      "id": 2
+    },
+    {
+      "name": "Mamta",
+      "username": "Mamta123",
+      "email": "mamta@gmail.com",
+      "phone": "9144778822",
+      "id": 3
+    }
+  ]
+}
